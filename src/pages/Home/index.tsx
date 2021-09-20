@@ -25,10 +25,12 @@ const Home = (): JSX.Element => {
   const [products, setProducts] = useState<ProductFormatted[]>([]);
   // const { addProduct, cart } = useCart();
 
+
   // const cartItemsAmount = cart.reduce((sumAmount, product) => {
   //   // TODO
   // }, {} as CartItemsAmount)
 
+  
   useEffect(() => {
     async function loadProducts() {
       api.get('products')
