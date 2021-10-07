@@ -1,6 +1,6 @@
 # Shopping Cart Hook
 
-Rocketshoes is an e-commerce who sells shoes. The challenge here is to create a shopping cart hook that should be able to add and remove items from the cart.
+Rocketshoes is an e-commerce which sells shoes. The challenge here is to create a shopping cart hook that should be able to add and remove items from the cart.
 
 ### Home
 ![Home](https://github.com/AdrianKnapp/hook-shopping-cart/blob/master/prints/home.png)
